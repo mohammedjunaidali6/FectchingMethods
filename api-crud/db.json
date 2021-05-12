@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "junaid",
+      "email": "junaidali1507@gmail.com",
+      "address": "dubai",
+      "phone": "9000900091"
+    },
+    {
+      "id": 2,
+      "name": "junaid",
+      "email": "junaidali1507@gmail.com",
+      "address": "dubai",
+      "phone": "9000900091"
+    },
+    {
+      "id": 3,
+      "name": "junaid",
+      "email": "junaidali1507@gmail.com",
+      "address": "dubai",
+      "phone": "9000900091"
+    },
+    {
+      "id": 4,
+      "name": "junaid ali",
+      "email": "junaidali1507@gmail.com",
+      "address": "dubai",
+      "phone": "9000900091"
+    },
+    {
+      "name": "jayanth",
+      "email": "jayanth@gmail.com",
+      "address": "suchitra",
+      "phone": "9000900099",
+      "id": 5
+    },
+    {
+      "name": "jayanth",
+      "email": "jayanth@gmail.com",
+      "address": "suchitra",
+      "phone": "9000900099",
+      "id": 6
+    },
+    {
+      "name": "jayanth",
+      "email": "joe@bloggs.com",
+      "address": "Hitech city, ameerpet",
+      "phone": "8899556644 ",
+      "id": 7
+    }
+  ]
+}
